@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/prefix1">
+        <file>icon/burung-akun.png</file>
+        <file>icon/dsahboard.png</file>
+        <file>icon/notes.png</file>
+        <file>icon/search.png</file>
+        <file>icon/plus-white.png</file>
+        <file>icon/notification.png</file>
+        <file>icon/hoodieorang.png</file>
+        <file>icon/todolist-black.png</file>
+        <file>icon/todolist-grey.png</file>
+        <file>icon/work_programming.gif</file>
+        <file>icon/computer.png</file>
+        <file>icon/design-science.gif</file>
+        <file>icon/techny-kanban-board-on-tablet.gif</file>
+        <file>icon/unread-notification.png</file>
+    </qresource>
+</RCC>
