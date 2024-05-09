@@ -1,4 +1,5 @@
 # Qt-TaskManager Desktop App
+The database used is SQLITE Database
 
 # Dashboard Display
 Dashboard that displays active or completed tasks, time and date, progress bar, 
